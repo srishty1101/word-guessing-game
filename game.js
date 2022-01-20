@@ -4,7 +4,7 @@ const btn = document.querySelector('.btn');
 let play =!false;
 let newWords ="";
 let randWords ="";
-let sWords =[ 'apple','function','knoweldge','ayuraveda','organic','ingredients','directions','aroma','herbs','massage'];
+let sWords =[ 'apple', 'php', 'function','knoweldge','ayuraveda','organic','ingredients','directions','aroma','herbs','massage'];
 
 
 createNewWords= () => {
